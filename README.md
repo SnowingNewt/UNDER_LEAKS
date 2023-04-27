@@ -9,7 +9,8 @@ Ferramenta projetada junto a API Json de vazamentos do "antipublic_combolist_186
 
   O script é executado a partir da linha de comando e solicita ao usuário que insira o endereço de e-mail a ser consultado. Em seguida, o script faz uma solicitação HTTP para a API do Snusbase e analisa a resposta para exibir as informações correspondentes.
 
-💻 Tecnologias
+💻 Tecnologias:
+
 Este script foi escrito em Python, uma linguagem de programação de alto nível e fácil de aprender. Ele utiliza as seguintes bibliotecas Python:
 
 ✅ requests : Uma biblioteca HTTP para fazer solicitação de rede.
