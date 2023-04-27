@@ -3,7 +3,8 @@ Ferramenta projetada junto a API Json de vazamentos do "antipublic_combolist_186
 
 ![alt text](https://i.ibb.co/4YQ0rBC/text.gif)
 
-💀 Descrição
+💀 Descrição:
+
   Este script em Python utiliza a API do Snusbase para buscar informações relacionadas a um endereço de e-mail especificado pelo usuário. A API retorna informações como nomes de usuário e senhas que foram vazados em brechas de segurança de diferentes sites, e o script exibe essas informações na saída.
 
   O script é executado a partir da linha de comando e solicita ao usuário que insira o endereço de e-mail a ser consultado. Em seguida, o script faz uma solicitação HTTP para a API do Snusbase e analisa a resposta para exibir as informações correspondentes.
