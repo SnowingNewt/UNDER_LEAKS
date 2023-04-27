@@ -12,8 +12,12 @@ Ferramenta projetada junto a API Json de vazamentos do "antipublic_combolist_186
 Este script foi escrito em Python, uma linguagem de programação de alto nível e fácil de aprender. Ele utiliza as seguintes bibliotecas Python:
 
 ✅ requests : Uma biblioteca HTTP para fazer solicitação de rede.
+
 ✅ json : Uma biblioteca para trabalhar com dados JSON.
-✅ colorama : Uma biblioteca para adicionar cor e estilo ao texto da saída na linha de comando.
+
+✅ colorama :
+
+Uma biblioteca para adicionar cor e estilo ao texto da saída na linha de comando.
 Além disso, o script utiliza a API do Snusbase para buscar informações relacionadas a um endereço de e-mail específico. A API é acessada por meio de uma solicitação HTTP GET enviada para o endpoint da API com o endereço de e-mail como parâmetro. A resposta da API é retornada em formato JSON e é mantida pelo script para exibir as informações relevantes
 
 ![alt text](https://i.ibb.co/rb5tcdT/Grava-o.gif)
