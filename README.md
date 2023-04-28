@@ -22,4 +22,3 @@ Além disso, o script utiliza a API do Snusbase para buscar informações relaci
 
 [![UNDER LEAKS](https://img.youtube.com/vi/ciVmeGbabbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ciVmeGbabbc)
 
-![alt text](https://i.ibb.co/rb5tcdT/Grava-o.gif)
