@@ -22,3 +22,9 @@ Além disso, o script utiliza a API do Snusbase para buscar informações relaci
 
 [![UNDER LEAKS](https://img.youtube.com/vi/ciVmeGbabbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ciVmeGbabbc)
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ciVmeGbabbc">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuThZJO6FJpjNFY8rDuNztFki1gIwPaWigz1IwqkaIF7ZUqN5d4uiIaPLEQVRuw_o-dNY&usqp=CAU" width="480" height="360">
+  </a>
+</p>
+
