@@ -20,11 +20,7 @@ Este script foi escrito em Python, uma linguagem de programação de alto nível
 ✅ colorama : Uma biblioteca para adicionar cor e estilo ao texto da saída na linha de comando.
 Além disso, o script utiliza a API do Snusbase para buscar informações relacionadas a um endereço de e-mail específico. A API é acessada por meio de uma solicitação HTTP GET enviada para o endpoint da API com o endereço de e-mail como parâmetro. A resposta da API é retornada em formato JSON e é mantida pelo script para exibir as informações relevantes
 
+# VEJA UMA DEMONSTRAÇÃO 🔥
 [![UNDER LEAKS](https://img.youtube.com/vi/ciVmeGbabbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ciVmeGbabbc)
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ciVmeGbabbc">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuThZJO6FJpjNFY8rDuNztFki1gIwPaWigz1IwqkaIF7ZUqN5d4uiIaPLEQVRuw_o-dNY&usqp=CAU" width="480" height="360">
-  </a>
-</p>
 
