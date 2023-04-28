@@ -23,7 +23,7 @@ Além disso, o script utiliza a API do Snusbase para buscar informações relaci
    # >>>> SUPER FÁCIL DE USAR! <<<< ▶️
 [![UNDER LEAKS](https://img.youtube.com/vi/ciVmeGbabbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ciVmeGbabbc)
 
-# OK! Mas porque usar? 
+# OK! Mas porque usar? 😒😒😒 
   
   O fácil acesso a vazamentos de endereços de e-mail é extremamente importante em investigações de OSINT (Open Source Intelligence) e de Inteligência. Com a crescente quantidade de dados que são disponibilizados na internet, vazamentos de informações pessoais se tornaram cada vez mais comuns e representam uma grave ameaça à segurança e privacidade das pessoas.
 
