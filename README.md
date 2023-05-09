@@ -23,7 +23,7 @@ Além disso, o script utiliza a API do Snusbase para buscar informações relaci
    # >>>> SUPER FÁCIL DE USAR! <<<< ▶️
 [![UNDER LEAKS](https://img.youtube.com/vi/ciVmeGbabbc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ciVmeGbabbc)
 
-# INSTALAÇÃO:
+# ✨ INSTALAÇÃO: ✨
     Apenas baixe o arquivo "instalador.sh" e execute normalmente com bash! ;)
     Exp: bash instalador.sh ou ./instalador.sh
 
