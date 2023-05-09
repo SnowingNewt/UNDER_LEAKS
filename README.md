@@ -25,7 +25,7 @@ Além disso, o script utiliza a API do Snusbase para buscar informações relaci
 
 # INSTALAÇÃO:
     Apenas baixe o arquivo "instalador.sh" e execute normalmente com bash! ;)
-    Exp: bash instalador.sh
+    Exp: bash instalador.sh ou ./instalador.sh
 
 # OK! Mas porque usar? 😒😒😒 
   
